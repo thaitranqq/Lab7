@@ -4,4 +4,3 @@
 * CRUD with API
 * Use Material UI
 * Login with google
-![screen web](https://github.com/kansimp/lab7/blob/main/screen/lab7.png)
